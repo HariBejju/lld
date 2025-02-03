@@ -1,0 +1,7 @@
+# Ignore compiled Java class files
+*.class
+
+
+# Ignore bin/ and out/ directories if used for compiled files
+bin/
+out/
